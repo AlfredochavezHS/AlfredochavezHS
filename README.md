@@ -36,9 +36,5 @@ const alfredoChavez = {
 };
 ```
 
-You can reach out to me here 🌍:
-
-https://www.linkedin.com/in/alfredo-chavez/
-
 <!--
 **AlfredochavezHS/AlfredochavezHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
